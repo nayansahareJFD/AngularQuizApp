@@ -1,0 +1,57 @@
+{
+    "questions": [{
+            "questionText": "who is the precident of INDIA?",
+            "options": [{
+                    "text": "Rahul Ghandi"
+                },
+                {
+                    "text":"Narendra modi" 
+                },
+                {
+                    "text": "Dr.Manmohan Singh"
+                },
+                {
+                    "text": "Droupadi Murmu",
+                    "correct":true
+                }
+            ]
+            
+        },
+        {
+            "questionText": "who is the PrimeMinister of INDIA?",
+            "options": [{
+                    "text": "Rahul Ghandi"
+                },
+                {
+                    "text":"Narendra modi" ,
+                    "correct":true
+                },
+                {
+                    "text": "Dr.Manmohan Singh"
+                },
+                {
+                    "text": "Droupadi Murmu"
+                }
+            ]
+        },
+        {
+            "questionText": "what is the name of the point where chandraayan 3 landed?",
+            "options": [{
+                    "text": "Maha Shakti"
+                },
+                {
+                    "text": "Shiv Shakti",
+                    "correct": true
+                },
+                {
+                    "text": "K2"
+                },
+                {
+                    "text": "point Nimo"
+                }
+            ]
+        }
+        
+        
+    ]
+}
